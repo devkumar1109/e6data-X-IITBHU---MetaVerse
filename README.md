@@ -4,6 +4,8 @@
 
 ------------------------------------------------------------------------
 
+On running the above source code notebook, it directs you towards the streamlit based app shown in the demo video
+
 ## 1. Introduction
 
 As AI agents become more capable, they are increasingly deployed to
