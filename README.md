@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-On running the above source code notebook, it directs you towards the streamlit based app shown in the demo video
+On running the above source code notebook, it directs you towards the streamlit based app shown in the demo video, where input is the json responses of multiple agents for a single prompt
 
 ## 1. Introduction
 
