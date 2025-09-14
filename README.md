@@ -141,7 +141,19 @@ with the following workflow:
 
 ------------------------------------------------------------------------
 
-## 5. Scoring Pipeline
+## 5. What We Delivered
+
+- *STATE-OF-THE-ART*: We developed a robust evaluation framework that integrates multiple research-backed metrics and open-source libraries into a single streamlined workflow.  
+
+- *VISUALIZED RESULTS*: Our framework includes an intuitive, visually appealing dashboard that highlights response accuracies, trends, and performance comparisons across agents.  
+
+- *COST-EFFICIENT*: The solution is completely free to use in its base form, with the option to enhance capabilities through premium API tiers for higher rate limits.  
+
+- *SCALABLE*: Built with scalability in mind, the system supports parallel processing and can efficiently handle thousands of queries from multiple agents in real-world scenarios.
+
+------------------------------------------------------------------------
+
+## 6. Scoring Pipeline
 
 Each module outputs scores between 0 and 1:
 
@@ -158,7 +170,7 @@ Scores can be reported individually (diagnostic) or combined into a
 
 ------------------------------------------------------------------------
 
-## 6. Interpretability & Explainability
+## 7. Interpretability & Explainability
 
 -   Instruction checks → parsed constraints shown.
 -   Grammar errors → listed with context.
@@ -168,7 +180,7 @@ Scores can be reported individually (diagnostic) or combined into a
 
 ------------------------------------------------------------------------
 
-## 7. Scalability & Robustness
+## 8. Scalability & Robustness
 
 -   **Streamlit caching** avoids repeated model loading.
 -   **Batch processing:** CSV/JSON uploads (1000s of responses).
@@ -177,7 +189,7 @@ Scores can be reported individually (diagnostic) or combined into a
 
 ------------------------------------------------------------------------
 
-## 8. Limitations & Future Work
+## 9. Limitations & Future Work
 
 **Current Limitations:** - Dependence on external APIs → latency +
 costs.
@@ -193,7 +205,7 @@ etc.).
 
 ------------------------------------------------------------------------
 
-## 9. Conclusion
+## 10. Conclusion
 
 We successfully built an **Agentic Evaluation Framework** that:
 
