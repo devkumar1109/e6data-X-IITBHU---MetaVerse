@@ -208,6 +208,6 @@ AI reliability is critical.
 
 ### Team METAVERSE
 
--   Dev Kumar\
--   Divya Gandhi\
+-   Dev Kumar
+-   Divya Gandhi
 -   Devansh Upadhyay
